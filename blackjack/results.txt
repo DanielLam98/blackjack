@@ -1,0 +1,19 @@
+Score is: 20
+busted
+Score is: 19
+Score is: 19
+busted
+Score is: 13
+Score is: 12
+Score is: 12
+Blackjack 21!
+Score is: 21
+Blackjack 21!
+Score is: 21
+Blackjack 21!
+Score is: 21
+wrong input data
+wrong input data
+wrong input data
+busted
+Finished!

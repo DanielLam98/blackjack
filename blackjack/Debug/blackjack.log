@@ -1,0 +1,4 @@
+﻿  blackjack.cpp
+c:\users\daniel\desktop\info 1112\blackjack\blackjack\blackjack.cpp(20): warning C4101: 'option': unreferenced local variable
+c:\users\daniel\desktop\info 1112\blackjack\blackjack\blackjack.cpp(63): warning C4715: 'value_of_card': not all control paths return a value
+  blackjack.vcxproj -> C:\Users\Daniel\Desktop\INFO 1112\blackjack\Debug\blackjack.exe
